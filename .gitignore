@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.runtime/
+*.joblib
+*.pkl
+modele/
+sorties/
+resultats/
+~$*.xlsx
+*.tmp
+*.pdf
+.DS_Store
+Thumbs.db
+desktop.ini

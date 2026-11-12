@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce dépôt (notebooks, jeux de données, textes), merci de le citer ainsi, et de citer aussi la source d'origine du jeu employé (voir LICENSE-DONNEES.md)."
+title: "Méca-IA : défis, corrigés et jeux de données"
+abstract: "Notebooks sujets et corrigés, jeux de données au format Excel et scores de référence qui accompagnent le livre Méca-IA (machine learning pour l'ingénierie mécanique, industrielle et productique) et ses prérequis en Python."
+type: software
+authors:
+  - family-names: "Amuzuga"
+    given-names: "Philippe"
+repository-code: "https://github.com/philippe-amuzuga/Meca-IA_Ed2026"
+url: "https://github.com/philippe-amuzuga/Meca-IA_Ed2026"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - machine learning
+  - ingénierie mécanique
+  - génie industriel
+  - productique
+  - maintenance prédictive
+  - Python
+references:
+  - type: book
+    title: "Méca-IA : machine learning pour l'ingénierie mécanique, industrielle et productique"
+    authors:
+      - family-names: "Amuzuga"
+        given-names: "Philippe"
+    year: 2026
+    edition: "1re édition"
+  - type: book
+    title: "Méca-Py : Python pour l'ingénierie mécanique, industrielle et productique"
+    authors:
+      - family-names: "Amuzuga"
+        given-names: "Philippe"
+    year: 2026
+    edition: "1re édition"
