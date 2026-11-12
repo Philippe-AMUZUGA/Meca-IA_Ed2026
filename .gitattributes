@@ -1,3 +1,8 @@
-* text=auto
-*.ipynb text eol=lf
+# Fins de ligne fixées pour tous les environnements : LF dans le dépôt et dans l'arbre de travail,
+# afin que les empreintes SHA-256 du manifeste se vérifient à l'identique sous Windows, macOS et Linux.
+* text=auto eol=lf
+
+# Fichiers binaires : aucune conversion.
 *.xlsx binary
+*.png binary
+*.pdf binary
